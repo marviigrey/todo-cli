@@ -1,2 +1,2 @@
 run/todo:
-	@go run ~/todo-cli/cmd/todo
+	@go run ./cmd/todo
